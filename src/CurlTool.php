@@ -44,4 +44,16 @@ class CurlTool
         curl_close($curl);
         return $output;
     }
+
+    /**
+     * description:
+     * @Date: 2020/1/10 17:37
+     * @param:
+     * @return:
+     * @author: yangguang
+     */
+    public function test()
+    {
+        echo 'this is a test  ';
+    }
 }
