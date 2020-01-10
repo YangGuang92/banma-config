@@ -54,6 +54,6 @@ class CurlTool
      */
     public function test()
     {
-        echo 'this is a test  ';
+        echo 'this is a test  !';
     }
 }
